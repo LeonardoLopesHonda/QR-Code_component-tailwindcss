@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub](https://github.com/LeonardoLopesHonda/QR-Code_component)
-- Live Site URL: [Live-preview](https://leonardolopeshonda.github.io/QR-Code_component/)
+- Live Site URL: [Live-preview](https://leonardolopeshonda.github.io/QR-Code_component-tailwindcss/)
 
 ## My process
 
